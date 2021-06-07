@@ -1,0 +1,8 @@
+{
+  "name": "codewars-katas",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  }
+}
