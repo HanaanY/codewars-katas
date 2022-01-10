@@ -1,0 +1,9 @@
+{
+  "name": "bouncing-balls",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "mocha -r ts-node/register ./test/bouncingBalls.spec.ts"
+  }
+}

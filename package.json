@@ -1,8 +1,13 @@
 {
   "name": "codewars-katas",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "@types/node": "^17.0.8",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
   "devDependencies": {
+    "@types/mocha": "^9.0.0",
     "mocha": "^8.4.0"
   }
 }
